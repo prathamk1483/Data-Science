@@ -1,4 +1,4 @@
-
+#######################################################  THIS FILE DEMONSTRATE THE STATISTICAL ANALYSIS FROM SCRATCH ####################################
 def mean(tomean):
     tomean=list(tomean)
     sum=0
