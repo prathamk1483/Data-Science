@@ -1,0 +1,39 @@
+Timestamp,Email Address,Name_of_Student,Roll_no,Last_Year_CGPA,Admission_through,MHT_CET_Score,JEE_Main_score,Certification_AIMLDS,How_many_certifications,Details_certification,Score_of_Online_certification,Are_you_on_hackerrank,are_you_on_codechef,stars_hackerrank,stars_codechef,are_you_on_leetcode,are_on_github,Technical_blog_writing,No_of_success_problems_codechef,No_of_success_problems_hackerrank,No_of_success_problems_leetcode,CPPS1_theory_grade,CPPS2_theory_grade,Domain_of_interest_for_projects
+11/8/2022 14:53:38,varad.sawant21@pccoepune.org,Varad Sawant,50,8.47,MHT CET,97.43,93.81,No,0,,,Yes,Yes,4,1,No,No,No,15,34,0,B+,A,Cybersecurity
+11/8/2022 15:04:48,om.satturwar21@pccoepune.org,Om Gunesh Satturwar,SYAIMLA49,8.28,MHT CET,97.0985041,91.4308874,No,0,,,Yes,Yes,3,2,Yes,yes,No,78,20,0,A+,B+,Neural Networks
+11/8/2022 15:06:14,swapnil.thorat21@pccoepune.org,Swapnil Thorat ,SYAIMLA55,9.1,MHT CET,97.07,92.32,No,0,,,Yes,Yes,5,2,Yes,yes,No,110+,60+,2,O,A,Data Science 
+11/8/2022 15:31:47,ramvijay.yadav21@pccoepune.org,Ramvijay Yadav ,60,8.82,MHT CET,97.8,95.034,No,4,Udemy,,Yes,Yes,4,3,Yes,yes,Yes,17,106,193,A,A,Machine learning 
+11/8/2022 17:42:48,anurag.mishra21@pccoepune.org,Anurag Mishra,SYAIMLA36,8.05,MHT CET,97.72,72,Yes,2,Udemy,5,Yes,Yes,3,1,Yes,yes,No,None,7,None,A,A,Web Development 
+11/8/2022 17:56:53,yash.sonar21@pccoepune.org,Yash Sonar ,SYAILMLA54,9.3,JEE Mains,97.22,94.9,No,0,,,No,Yes,,1,No,yes,No,145,,,A,A,Gaming
+11/8/2022 20:17:10,sana.sampson21@pccoepune.org,Sana Sampson,SYAIMLA48 ,9.55,MHT CET,97.6,94.38,No,0,,,Yes,Yes,5,1,No,No,No,152,54,,10,10,"Solving a real life problem using AI, ML and DS."
+11/8/2022 22:50:38,lokesh.kad21@pccoepune.org,Lokesh Kad,SYAIMLA23,8.9,MHT CET,98.3℅ile,None,No,3,Coursera,80℅ average,Yes,Yes,4,1,Yes,yes,No,50,70,10,9,9,Data Science
+11/9/2022 11:11:04,dharin.dave21@pccoepune.org,Dharin Dave ,SYAIMLA05 ,8.4,MHT CET,,,Yes,1,,,Yes,No,4,,No,No,No,,,,9,10,Machine Learning 
+11/9/2022 11:31:09,suyash.gadhave21@pccoepune.org,Suyash Sanjay Gadhave ,SYAIMLA11 ,8.2,MHT CET,,,No,0,,,Yes,Yes,,,No,yes,No,,,,O,B+,Artificial intelligence
+11/9/2022 11:35:45,pratham.kubetkar21@pccoepune.org,Pratham Kubetkar ,SYAIMLA28 ,8.45,MHT CET,98.08,88,No,3,LinkedIn Learning ,80%,Yes,Yes,5,1,No,No,No,89,50,0,A+,O,Machine learning 
+11/9/2022 12:04:25,anurag.karpe21@pccoepune.org,Anurag Mahendra Karpe ,SYAIMLA26 ,7.85,MHT CET,90.02,,No,0,,,Yes,No,3,,Yes,yes,No,,,,A,A,AI Automation
+11/9/2022 12:50:52,rohit.wankar21@pccoepune.org,ROHIT WANKAR,SYAIMLA58,7.45,MHT CET,92.08 %ile,NON,No,1,IDIGITALPRENEUR ACADEMY,CERTIFICATION OF PARTICIPATION ,Yes,Yes,2,1,No,No,No,8-10,8-10,,B,B+,"AI & ML, Web development"
+11/9/2022 19:36:05,dhanashree.yadav21@pccoepune.org,Dhanashree Yadav ,SYAIMLA59 ,9.25,MHT CET,97.06,-,Yes,3,,,Yes,Yes,3,1,Yes,yes,No,114,,0,A,A,Big Data 
+11/10/2022 8:10:39,zavi.shaikh21@pccoepune.org,Shaikh Zavi,SYAIMLA51,7.9,MHT CET,91%,,No,0,,,Yes,Yes,3,3,No,yes,No,,,,41,32,Neural Networks
+11/10/2022 14:21:58,shubham.singh21@pccoepune.org,Shubham Singh ,SYAIMLA52 ,8.8,JEE Mains,97,94,No,3,Udemy,,Yes,Yes,3,1,No,yes,No,,,,9,9,Machine learning 
+11/10/2022 14:23:09,parth.singhal21@pccoepune.org,Parth Vivek Singhal ,SYAIMLA53 ,8.53,MHT CET,,,No,0,,,Yes,No,3,,No,No,No,,,,A,B+,Cloud networking
+11/10/2022 14:25:42,damini.pawar21@pccoepune.org,Damini Sandip Pawar,SYAIMLA45,8,MHT CET,96.9,83,No,0,Udemy,,Yes,Yes,,,No,No,No,,,,A,B,AIML
+11/10/2022 14:25:57,shreeraj.patil21@pccoepune.org,Shreeraj Patil,43,7.5,MHT CET,86,63,No,0,,,Yes,No,3,,No,yes,No,,5,,B,B,Uav
+11/10/2022 14:26:16,sambhav.patil21@pccoepune.org,Sambhav Sanjay Patil,SYAIMLA42,8.75,MHT CET,97.42,90.48,No,1,Udemy,,Yes,Yes,4,1,No,yes,No,,,,A,A,web Development
+11/10/2022 14:27:41,shivarth.gangurde21@pccoepune.org,Shivarth Shashikant Gangurde ,SYAIMLA12 ,7.5,MHT CET,86.36,73.7837,No,0,Udemy,,Yes,Yes,2,,No,No,No,3,8,0,B,A,Python 
+11/10/2022 14:27:49,chetan.ladkat21@pccoepune.org,Chetan Ladkat ,SYAIMLA31 ,8.82,MHT CET,97.77,74,Yes,0,,,Yes,Yes,1,1,No,yes,No,30,10,0,A,B+,"AI , ML , Web development, "
+11/10/2022 14:29:00,kshitij.guladhe21@pccoepune.org,Kshitij Guladhe ,SYAIMLA15,7.2,MHT CET,82.78,77.87,No,1,,,Yes,Yes,2,1,Yes,No,No,0,10,,B,B,Cyber Security 
+11/10/2022 14:29:21,rushikesh.biradar21@pccoepune.org,Rushikesh Shivaji Biradar,SYAIMLA06,9.25,MHT CET,97.9,90.68,No,0,,,Yes,Yes,4,1,No,No,No,300,50,0,46,49,"Blockchain, Trading"
+11/10/2022 14:29:26,soham.narsale21@pccoepune.org,Soham Tukaram Narsale ,SYAIMLA39 ,7.5,MHT CET,80.8 percentile ,70 percentile ,No,0,,,Yes,Yes,4,,No,No,No,,15,,9,7,"AI, ML, NLP"
+11/10/2022 14:29:37,piyush.agarwal21@pccoepune.org,Piyush Agarwal,SYAIMLA01,7.15,MHT CET,,,No,0,,,Yes,Yes,,,Yes,yes,No,,,,A+,C,ML
+11/10/2022 14:29:52,neha.mahajan21@pccoepune.org,Neha Mahajan ,SYAIMLA64 ,8.35,MHT CET,83.44,-,No,3,,,Yes,No,3,,No,No,No,,20,,A,A,Data Science 
+11/10/2022 14:30:24,parth.halwane21@pccoepune.org,Parth Halwane,SYAIMLA16,8.7,MHT CET,97.24,93.68,No,0,,,Yes,Yes,5,1,No,yes,No,377,36,0,A,A,IoT
+11/10/2022 14:30:30,aparna.hatte21@pccoepune.org,Aparna ,SYAIMLA17 ,8.05,MHT CET,92.95,85.4,No,0,,,Yes,Yes,3,1,Yes,yes,No,20,10,0,A,B,Blockchain
+11/10/2022 14:30:51,suyash.gadhave21@pccoepune.org,Suyash Sanjay Gadhave ,SYAIMLA11 ,8.2,MHT CET,94.41,77.87,No,0,,,Yes,Yes,3,,No,yes,No,,,,O,B+,Artificial intelligence 
+11/10/2022 14:31:07,om.bhavsar21@pccoepune.org,Om Bhavsar ,SYAIMLA3 ,8.9,MHT CET,97.26,,No,0,,,No,No,,,No,No,No,,,,A,A,Coding 
+11/10/2022 14:31:08,parth.chitale21@pccoepune.org,Parth M Chitale,SYAIMLA&,8.3,JEE Mains,91,77,No,0,none,,Yes,Yes,4,4,No,yes,Yes,4,5,,B,B,Deep learning
+11/10/2022 14:32:07,vaibhav.gangurde21@pccoepune.org,Vaibhav Gangurde,SYAIMLA13,9.2,MHT CET,,,No,0,,,No,No,,,No,No,No,,,,A,A,Maths
+11/10/2022 14:32:15,shailesh.kaliya21@pccoepune.org,Shailesh Kaliya,SYAIMLA24,8.85,MHT CET,97.25,90.92,No,0,None,,Yes,Yes,1,3,Yes,yes,No,67,5,0,A,A,Machine learning
+11/10/2022 14:32:48,aarya.hire21@pccoepune.org,Aarya Prashant Hire,SYAIMLA18,.,MHT CET,84.2,,No,0,,,No,No,,,No,No,No,,,,B,B,Artificial Intelligence 
+11/10/2022 14:33:00,rohan.deokate21@pccoepune.org,ROHAN DEOKATE ,SYAIMLA09,8.9,MHT CET,,,No,0,,,No,No,,,No,No,No,,,,A,B,MATHS
+11/10/2022 14:33:27,minal.azad21@pccoepune.org,Minal Azad ,SYAIMLA02 ,8.5,MHT CET,97.4,92.6,No,0,,,Yes,Yes,,,No,yes,No,,,,A+,A+,UI/UX
+11/10/2022 14:35:03,harshraj.chouhan21@pccoepune.org,Harshraj Singh Chouhan,SYAIMLA8,6.95,MHT CET,97,,No,0,,,Yes,Yes,2,1,No,yes,No,5,6,,B+,B+,Applications of AI in Video Game Design
