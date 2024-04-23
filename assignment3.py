@@ -1,35 +1,35 @@
-# import pandas as pd
-# import numpy as np
+import pandas as pd
+import numpy as np
 
-# anime = pd.read_csv("anime.csv")
-# df = pd.DataFrame(data= anime)
-# print(df.isnull().sum() , end='\n\n\n\n\n')
+anime = pd.read_csv("anime.csv")
+df = pd.DataFrame(data= anime)
+print(df.isnull().sum() , end='\n\n\n\n\n')
 
-# print(df)
-# df.fillna(inplace=True , method='ffill')
-# df.fillna("unknown",inplace=True)
-# print(df.isnull().sum())
+print(df)
+df.fillna(inplace=True , method='ffill')
+df.fillna("unknown",inplace=True)
+print(df.isnull().sum())
 
-# import pandas as pd
-# anime= pd.read_csv("anime.csv")
-# df = pd.DataFrame(data=anime)
-# print(df.isnull().sum())
+import pandas as pd
+anime= pd.read_csv("anime.csv")
+df = pd.DataFrame(data=anime)
+print(df.isnull().sum())
 
-# print("*"*70)
+print("*"*70)
 
-# df.info()
-# print("*"*70)
-# df.fillna(method='ffill', inplace=True)
-# print(df.isnull().sum())
+df.info()
+print("*"*70)
+df.fillna(method='ffill', inplace=True)
+print(df.isnull().sum())
 
-# df['mediaType']=df['mediaType'].astype(str)
-# df['title']=df['title'].astype(str)
-# df['eps']=df['eps'].astype(str)
-# df['duration']=df['duration'].astype(str)
-# df['ongoing']=df['ongoing'].astype(str)
+df['mediaType']=df['mediaType'].astype(str)
+df['title']=df['title'].astype(str)
+df['eps']=df['eps'].astype(str)
+df['duration']=df['duration'].astype(str)
+df['ongoing']=df['ongoing'].astype(str)
 
-# print("After conversion.")
-# print(df.info())
+print("After conversion.")
+print(df.info())
 
 
 
